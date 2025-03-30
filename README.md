@@ -49,4 +49,4 @@ In `style.css`, do the following:
 
 ### Submitting Your Work
 
-After completing the assignment, make sure to commit your changes and push them back to your own repository and turn in the GitHub link in Google Classroom.
+After completing the assignment, make sure to commit your changes and push them back to your own repository and turn in the GitHub link in OpenClass.
